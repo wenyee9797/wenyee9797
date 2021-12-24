@@ -1,3 +1,2 @@
 - 👋 Hi, I’m wenyee
 - 🌱 I’m currently learning FPGA and Machine Learning
-- 📫 Reach me with my email
